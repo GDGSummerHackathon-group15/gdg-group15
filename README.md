@@ -1,15 +1,19 @@
-# 팀원
+# Group 15
+
+## Team
 ![화면 캡처 2021-07-11 124707](https://user-images.githubusercontent.com/68000537/125182134-55ccb800-e246-11eb-97f4-c5ceaf7e66c7.png)
-## Design
+### Design
 박주미: 사람들의 행동과 서비스 사용성에 관심이 많은 디자이너
 
-## Frontend
+### Frontend
 이서윤: react로 개발하는 프론트 개발자
 이재욱: 라이언로켓에서 일하고 있는 프론트엔드 개발자
 
-## Backend
+### Backend
 손윤석: 스프링으로 개발하는 백엔드 개발자
 임지선: 사람들과 소통하기 좋아하고 클린코드에 관심이 많은 백엔드 개발자
+
+---
 
 # HelloWings
 
@@ -74,3 +78,7 @@
 #### 인증
 - OAuth를 활용하여 GitHub 로그인을 구현하였습니다.
 - 클라이언트로부터 Authorization 헤더로 받은 토큰을 Interceptor에서 확인하는 방식으로 사용자를 검증하였습니다.
+
+
+
+
