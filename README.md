@@ -29,6 +29,7 @@
 ## 기능 상세 
 ### API 문서
 - [Postman API Documentation](https://documenter.getpostman.com/view/15287546/Tzm6nGqX)
+- 설계한 모든 API에 대한 백엔드 구현이 완료되었습니다. 
 ### 회원 관련 기능
 - **Github 로그인**
     - OAuth를 사용하여 Github 계정으로 로그인
@@ -38,13 +39,18 @@
 ### 도서 검색 관련 기능
 - **개발분야 조회**
     - Frontend, Backend등 포괄적인 분야로 메인카테고리 리스트 조회
+![image](https://user-images.githubusercontent.com/68000537/125229797-73675380-e312-11eb-92ce-a3810942757f.png)
+
 - **카테고리 리스트 조회**
     - 각 개발분야 내의 메인 카테고리와 서브 카테고리 조회
     - ex) Backend -> 프레임워크 -> Java
 - **도서 리스트 조회**
     - 서브 카테고리 내의 도서 리스트 조회
+![image](https://user-images.githubusercontent.com/68000537/125229824-81b56f80-e312-11eb-803d-69859a6359bb.png)
 - **책 상세페이지 조회**
     - 책에 관련된 정보와 별점 및 별점을 남긴 유저 수를 조회
+![image](https://user-images.githubusercontent.com/68000537/125229903-ac072d00-e312-11eb-93ec-2eca0ddc7fcb.png)
+
 ### 리뷰 및 위시 리스트 관련 기능
 - **리뷰 추가**
     - 별점과 리뷰 내용을 입력받고 도서의 리뷰리스트에 저장
@@ -54,9 +60,15 @@
     - 도서를 유저의 위시리스트에 저장
 - **위시리스트 삭제**
     - 저장되어있던 위시리스트에서 위시를 삭제
+![image](https://user-images.githubusercontent.com/68000537/125229918-b7f2ef00-e312-11eb-88e3-6f624d3a9ccc.png)
+
+## 데모 영상
+![녹화_2021_07_12_13_01_30_717](https://user-images.githubusercontent.com/68000537/125229424-c096f580-e311-11eb-9da4-e031f5117821.gif)
 
 ## 기술 상세
 ### Design
+- Adobe Illustrator
+- Figma
 
 ### Frontend
 - react
