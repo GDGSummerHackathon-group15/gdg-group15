@@ -30,6 +30,7 @@
 ### API 문서
 - [Postman API Documentation](https://documenter.getpostman.com/view/15287546/Tzm6nGqX)
 - 설계한 모든 API에 대한 백엔드 구현이 완료되었습니다. 
+
 ### 회원 관련 기능
 - **Github 로그인**
     - OAuth를 사용하여 Github 계정으로 로그인
@@ -64,6 +65,7 @@
 
 ## 데모 영상
 ![녹화_2021_07_12_13_01_30_717](https://user-images.githubusercontent.com/68000537/125229424-c096f580-e311-11eb-9da4-e031f5117821.gif)
+![녹화_2021_07_19_11_36_22_436](https://user-images.githubusercontent.com/68000537/126094919-d02e7f94-3e9c-439a-81bf-d95fb951320c.gif)
 
 ## 기술 상세
 ### Design
